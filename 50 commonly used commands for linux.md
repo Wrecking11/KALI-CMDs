@@ -50,9 +50,10 @@
 48. `echo` - Display a line of text or variables.
 49. `date` - Display or set the system date and time.
 50. `clear` - Clear the terminal screen.
-51. `nano` - Simple text editor
-52. `mousepad` - Lightweight graphical text editor
-53. `touch` - Create empty files
+51. `nano` - Simple text editor.
+52. `mousepad` - Lightweight graphical text editor.
+53. `touch` - Create empty files.
+54. `tr` - Translate or delete characters from the input data.
 
 ***These are just a few examples of commonly used Linux commands. There are many more commands available, each with its own specific functionality. Exploring and mastering these commands will help you navigate and work effectively in a Linux environment.***
 
